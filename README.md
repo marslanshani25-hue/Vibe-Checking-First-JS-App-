@@ -7,6 +7,6 @@ How to Run Locally To get this project up and running on your machine, follow th
 
 2-Navigate to the project folder.
 
-3-Open index.html directly in your web browser (Chrome, Firefox, or Safari).
+3-Open index.html directly in your web browser (Chrome or Safari).
 
 Alternative: If you are using VS Code, right-click index.html and select "Open with Live Server" for a real-time preview.
